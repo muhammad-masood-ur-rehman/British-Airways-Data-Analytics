@@ -1,1 +1,1 @@
-# British-Airways-Data-Analytics
+# British Airways Data Analytics
